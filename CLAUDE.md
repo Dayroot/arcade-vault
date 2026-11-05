@@ -35,6 +35,9 @@ npx skills@latest add Klerith/fernando-skills
 
 Follow practices from https://github.com/Klerith/fernando-skills when adding features — write/update a spec before implementation.
 
+## Skills
+Usa siempre la skill /frontend-design para diseñar interfaces de usuario.
+
 ## Stack
 
 - Next.js 16 (App Router) + React 19 + TypeScript (strict mode)
