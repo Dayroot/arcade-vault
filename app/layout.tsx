@@ -9,7 +9,7 @@ const pixelFont = Press_Start_2P({
 });
 
 const monoFont = JetBrains_Mono({
-  variable: "--font-mono-game",
+  variable: "--font-mono-av",
   subsets: ["latin"],
 });
 
